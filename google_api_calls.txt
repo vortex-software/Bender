@@ -1,0 +1,10 @@
+Pubs near me
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=53.3134690,-1.4574910&radius=500&type=bar&keyword=pub&key=AIzaSyA25df16GLA5A7BnqcftJSlYPSlXjjvwO4
+
+
+Pub search
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=daggers&location=53.3134690,-1.4574910&radius=500&key=AIzaSyA25df16GLA5A7BnqcftJSlYPSlXjjvwO4
+
+
+Time and distance
+https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=53.3134690,-1.4574910&destinations=53.31102180000001,-1.4596926&key=AIzaSyA25df16GLA5A7BnqcftJSlYPSlXjjvwO4
