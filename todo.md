@@ -1,4 +1,4 @@
-# Bender ToDo List
+# ToDo & Upcoming Changes
 
 ## Map
 * Show pubs on map
